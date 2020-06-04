@@ -1,9 +1,9 @@
 class Dog 
-def name=(fido)
-  @thid_dogs_name = "fido"  
+def name=(dogs_name)
+  @name = dogs_name 
 end 
 def name  
-  @thid_dogs_name
+  @name 
   
   
 end 
